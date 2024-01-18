@@ -1,0 +1,11 @@
+body{
+    background : linear-gradient(135deg , #36D1DC, #5B86E5);
+}
+
+nav{
+    background : linear-gradient(140deg, #000046, #1CB5E0);
+}
+
+.card{
+    background : linear-gradient(140deg, #000046, #1CB5E0);
+}
